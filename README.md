@@ -53,11 +53,10 @@ httpd =HTTPServer(server_adress, HelloHandler)
 httpd.serve_forever()
 ```
 ## OUTPUT:
+
 ### Server Side Output
 
 ![Server Side Output](./image/serveroutput.png)
-
-
 ### Client Side Output
 
 ![Client Side Output](./image/clientoutput.png)
@@ -66,3 +65,5 @@ httpd.serve_forever()
 ## RESULT:
 
 Thus the program is developed to display three programming language
+
+
