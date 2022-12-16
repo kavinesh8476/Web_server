@@ -56,10 +56,10 @@ httpd.serve_forever()
 
 ### Server Side Output
 
-![Server Side Output](/image/serveroutput.png)
+![Server Side Output](/image/serveroutput.jpg)
 ### Client Side Output
 
-![Client Side Output](/image/clientoutput.png)
+![Client Side Output](/image/clientoutput.jpg)
 
 
 ## RESULT:
